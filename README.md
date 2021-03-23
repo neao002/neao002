@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**neao002/neao002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 ### Hi there, I'm Nico - aka NiCo! 👋
 
 ## I'm a Husband, Father, Developer, and a Professional Cook!
