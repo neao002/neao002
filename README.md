@@ -8,7 +8,12 @@
 - ⚡ I love to train, play videogames, pingpong and enjoy my Family and cats
 
 
-![image](https://user-images.githubusercontent.com/69300841/112184890-f3509d00-8bff-11eb-9d10-f52e2b30b6d9.png)
+
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69300841?s=460&u=55669681f1adc950ef252911a56a044b65566b58&v=4" alt="avatar"/>
+</p>
+
 
 
 
