@@ -1,6 +1,6 @@
 ### Hi there, I'm Nico - aka NiCo! 👋
 
-## I'm a Husband, Father, Developer, and a Professional Cook!
+## I'm a Husband, Father, Developer, Professional Cook and Manager In Hospitality!
 
 - 🌱 I’m currently learning React and Back-end🤣
 - 👯 I’m looking to collaborate with other content creators
