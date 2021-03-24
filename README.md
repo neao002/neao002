@@ -1,4 +1,4 @@
-### Hi World, I'm Nicolás Alvarez - aka NiCo! 👋
+### Hi World, I'm Nicolás Alvarez - aka NiCo! 
 
 ## I'm a Husband, Traveler, Father, Developer, Professional Cook and Manager In Hospitality!
 
