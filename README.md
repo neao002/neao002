@@ -4,7 +4,6 @@
 
 - 🌱 Working as a Support Engineer on zap
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Finish my Full WebDev Bootcamp and become a father again! :)
 - ⚡ I love to train, play videogames, pingpong and enjoy my Family and cats
 
 
