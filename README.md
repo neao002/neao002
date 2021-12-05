@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Traveler, Father, Developer, Professional Cook and Manager In Hospitality!
 
-- 🌱 Working as a Support Engineer on zap
+- 🌱 Working as a Support Engineer in Zapp
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ I love to train, play videogames, pingpong and enjoy my Family and cats
 
